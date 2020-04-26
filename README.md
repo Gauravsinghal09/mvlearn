@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.7-blue.svg)]()
 [![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-[![Github all releases](https://img.shields.io/github/downloads/neurodata/mvlearn.js/total.svg)](https://GitHub.com/neurodata/mvlearn.js/releases/)
+[![HitCount](http://hits.dwyl.io/neurodata/mvlearn.svg)](http://hits.dwyl.io/neurodata/mvlearn)
 [![Build Status](https://travis-ci.com/neurodata/mvlearn.svg?branch=master)](https://travis-ci.com/neurodata/mvlearn)
 [![Documentation Status](https://readthedocs.org/projects/mvlearn/badge/?version=latest)](https://mvlearn.readthedocs.io/en/latest/?badge=latest)
 [![codecov](https://codecov.io/gh/neurodata/mvlearn/branch/master/graph/badge.svg)](https://codecov.io/gh/neurodata/mvlearn)
